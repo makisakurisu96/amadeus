@@ -1,0 +1,19 @@
+{
+  "name": "amadeus",
+  "version": "1.0.0",
+  "description": "As the initial stage for building an AI similar to Amadeus, we are collecting simple programs that take some input and give some output based on some logic.",
+  "main": "ListFilesInFolder.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/makisakurisu96/amadeus.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/makisakurisu96/amadeus/issues"
+  },
+  "homepage": "https://github.com/makisakurisu96/amadeus#readme"
+}
