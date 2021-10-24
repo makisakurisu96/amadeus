@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/makisakurisu96/amadeus/issues"
   },
-  "homepage": "https://github.com/makisakurisu96/amadeus#readme"
+  "homepage": "https://github.com/makisakurisu96/amadeus#readme",
+  "dependencies": {
+    "line-by-line": "^0.1.6"
+  }
 }
